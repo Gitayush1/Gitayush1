@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🚀 Ayush Singh</h1>
-<h3 align="center">Full-Stack Developer | IIIT Una | Backend & Scalable Systems</h3>
+<h3 align="center">Full-Stack Developer | IIIT Una | Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gitayush1&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -18,16 +18,15 @@
 
 * 🎓 B.Tech IT @ IIIT Una (CGPA: 8.97)
 * 💻 Web Developer @ MyMedicos (Next.js + TypeScript)
-* 🧠 490+ DSA Problems Solved
-* 🔥 1700+ LeetCode Rating
-* ⚡ Backend Architecture & Scalable Systems Enthusiast
+* 🧠 575+ DSA Problems Solved
+* ⚡ Full Stack Applications & Scalable Systems Enthusiast
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 1st Position – Sold Mold (IIIT Una)
-* 🧠 490+ Problems (LeetCode, GFG, CodeChef)
+* 🧠 575+ Problems (LeetCode, GFG, CodeChef)
 * 🏅 Physics Gold Medalist (99/100)
 * 🚀 KrackHack 2.0 – IIT Mandi (GDG)
 
