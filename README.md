@@ -1,10 +1,15 @@
-<h1 align="center">🚀 Ayush Singh</h1>
-
-<h3 align="center">Full-Stack Developer | 1700+ LeetCode | Scalable Systems</h3>
+<!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ayush+Singh;Full+Stack+Developer;1700%2B+LeetCode+Rating;Building+Scalable+Systems" />
+</p>
+
+<h1 align="center">🚀 Ayush Singh</h1>
+<h3 align="center">Full-Stack Developer | IIIT Una | Backend & Scalable Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gitayush1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Gitayush1?label=Followers&style=social" />
 </p>
 
 ---
@@ -12,17 +17,17 @@
 ## ⚡ About Me
 
 * 🎓 B.Tech IT @ IIIT Una (CGPA: 8.97)
-* 💻 Web Developer @ MyMedicos (Next.js + TS)
+* 💻 Web Developer @ MyMedicos (Next.js + TypeScript)
 * 🧠 490+ DSA Problems Solved
 * 🔥 1700+ LeetCode Rating
-* ⚡ Backend & Scalable Systems Enthusiast
+* ⚡ Backend Architecture & Scalable Systems Enthusiast
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 1st Position – Sold Mold (IIIT Una Fest)
-* 🧠 490+ Coding Problems (LeetCode, GFG, CodeChef)
+* 🥇 1st Position – Sold Mold (IIIT Una)
+* 🧠 490+ Problems (LeetCode, GFG, CodeChef)
 * 🏅 Physics Gold Medalist (99/100)
 * 🚀 KrackHack 2.0 – IIT Mandi (GDG)
 
@@ -30,60 +35,51 @@
 
 ## 💻 Tech Stack
 
-### 🧠 Languages
+<p align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,git,vercel,postman&theme=dark" />
 
-### ⚛️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
-
-### 🔧 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge)
-
-### ☁️ Tools & DevOps
-
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🩺 DocBOOK (Doctor Appointment Platform)
 
-* MERN stack with JWT & Stripe
-* Reduced unauthorized access by 85%
-* Optimized API → 40% faster response
+* MERN stack + JWT + Stripe
+* 🔐 Reduced unauthorized access by **85%**
+* ⚡ Optimized APIs → **40% faster**
+
+---
 
 ### 🍔 QuickCrave (Food Ordering App)
 
 * React + Redux + Swiggy API
-* Improved load time by 50%
-* Handles 100+ restaurant data
+* ⚡ Load time improved by **50%**
+* 📊 Handles 100+ restaurant data
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gitayush1&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitayush1&theme=tokyonight&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitayush1&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-1700+-orange?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://codechef.com/"><img src="https://img.shields.io/badge/CodeChef-active-brown?style=for-the-badge"/></a>
+  <a href="https://geeksforgeeks.org/"><img src="https://img.shields.io/badge/GFG-490%2B-green?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -91,17 +87,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Gitayush1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:kunwarayush23@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## 🔥 Fun Add-on (Contribution Snake)
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Gitayush1/Gitayush1/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🌊 Premium Footer Wave
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 
 ---
