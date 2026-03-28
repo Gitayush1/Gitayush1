@@ -13,16 +13,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ THIS WAS MISSING (IMPORTANT)
+      # ✅ Checkout repo (IMPORTANT)
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 🐍 Generate snake (COLORED + DARK MODE)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Gitayush1
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 🚀 Deploy to output branch
       - name: Deploy Snake
         uses: JamesIves/github-pages-deploy-action@v4
         with:
