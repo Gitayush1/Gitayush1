@@ -13,6 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ THIS WAS MISSING (IMPORTANT)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
