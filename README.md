@@ -1,11 +1,11 @@
 <!-- 🔥 Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ayush+Singh;Full+Stack+Developer;Backend+%26+Scalable+Systems;IIIT+Una" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ayush+Singh;Full+Stack+Developer;Building+Scalable+Systems;IIIT+Una" />
 </p>
 
 <h1 align="center">🚀 Ayush Singh</h1>
-<h3 align="center">Full-Stack Developer | IIIT Una | Backend & Scalable Systems</h3>
+<h3 align="center">Full-Stack Developer | IIIT Una | Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gitayush1&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -18,8 +18,8 @@
 
 * 🎓 B.Tech IT @ IIIT Una (CGPA: 8.97)
 * 💻 Web Developer @ MyMedicos (Next.js + TypeScript)
-* 🧠 575+ DSA Problems Solved
-* ⚡ Backend Architecture & Scalable Systems Enthusiast
+* 🧠 490+ DSA Problems Solved
+* ⚡ Passionate about building scalable applications
 
 ---
 
@@ -38,7 +38,7 @@
 ## 🏆 Achievements
 
 * 🥇 1st Position – Sold Mold (IIIT Una)
-* 🧠 575+ Coding Problems (LeetCode, GFG, CodeChef)
+* 🧠 490+ Coding Problems (LeetCode, GFG, CodeChef)
 * 🏅 Physics Gold Medalist (99/100)
 * 🚀 KrackHack 2.0 – IIT Mandi (GDG)
 
