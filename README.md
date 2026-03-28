@@ -18,15 +18,27 @@
 
 * 🎓 B.Tech IT @ IIIT Una (CGPA: 8.97)
 * 💻 Web Developer @ MyMedicos (Next.js + TypeScript)
-* 🧠 490+ DSA Problems Solved
+* 🧠 575+ DSA Problems Solved
 * ⚡ Backend Architecture & Scalable Systems Enthusiast
+
+---
+
+## 💼 Experience
+
+### 💻 Web Developer — MyMedicos Community
+
+* 🚀 Built platform using **Next.js 15 + TypeScript**
+* ⚙️ Designed **feature flag system** → 70% safer deployments
+* 📊 Developed **admin dashboard (RBAC)** for full control
+* 📸 Implemented **Instagram-like stories (real-time)** → +40% engagement
+* ⚡ Improved performance using lazy loading & Zustand → +35% speed
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 1st Position – Sold Mold (IIIT Una)
-* 🧠 490+ Coding Problems (LeetCode, GFG, CodeChef)
+* 🧠 575+ Coding Problems (LeetCode, GFG, CodeChef)
 * 🏅 Physics Gold Medalist (99/100)
 * 🚀 KrackHack 2.0 – IIT Mandi (GDG)
 
