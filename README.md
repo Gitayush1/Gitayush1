@@ -38,7 +38,7 @@
 ## 🏆 Achievements
 
 * 🥇 1st Position – Sold Mold (IIIT Una)
-* 🧠 490+ Coding Problems (LeetCode, GFG, CodeChef)
+* 🧠 600+ Coding Problems (LeetCode, GFG, CodeChef)
 * 🏅 Physics Gold Medalist (99/100)
 * 🚀 KrackHack 2.0 – IIT Mandi (GDG)
 
