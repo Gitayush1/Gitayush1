@@ -18,7 +18,7 @@
 
 * 🎓 B.Tech IT @ IIIT Una (CGPA: 8.97)
 * 💻 Web Developer Intern @ MyMedicos (Next.js + TypeScript)
-* 🧠 680+ DSA Problems Solved
+* 🧠 830+ DSA Problems Solved
 * ⚡ Passionate about building scalable, real-world applications
 
 ---
